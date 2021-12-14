@@ -10,11 +10,15 @@ Wishes for the workplace:
  - Working hours: up to 8 hours a day.
  - No less than 2 days off a week.
 #
-Special skills: * there is nothing here yet, but there will definitely be something*
+Special skills:
+ - Knowledge of working with the Linux terminal
+ - Has experience in graphic design
 #
-Achievements, works, projects: * all works were stolen by Gypsies, but promised to return*
+Achievements, works, projects:
+ - Creative project: *there will be a link here*
+ - Program: *in development*
 #
-About me: I am me.(joke, I'll finish it later)
+About me: Konstantin Deev. The employee is not the most proactive, but performs the task. The character is versatile. Not married.
 ###
 -------------------------------------------------
 ###
@@ -29,8 +33,12 @@ About me: I am me.(joke, I'll finish it later)
  - Время работы: до 8 часов в день.
  - Не менее2 выходных дней в неделю.
 #
-Особые умения: *здесь пока ничего нет, но что-то обязательно будет*
+Особые умения:
+ - Знания работы с терминалом Linux
+ - Имеется опыт работы в сфере графического дизайна
 #
-Достижения, работы, проекты: *все работы украли цыгане, но обещали вернуть*
+Достижения, работы, проекты:
+ - Творческий проект: *тут будет ссылка*
+ - Программа: *в разработке*
 #
-О себе: Я - это я.(шутка, потом допишу)
+О себе: Константин Деев. Работник не самый инициативный, но поставленную задачу выполняет. Характер разносторонний. Не женат.
