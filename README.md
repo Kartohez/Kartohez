@@ -1,4 +1,7 @@
-###👋Hello there
+###
+Hello there👋
+###
+#
 I am a versatile specialist in the field of IT.
 #
 🎓Education:
@@ -20,10 +23,31 @@ I am a versatile specialist in the field of IT.
  - Creative project: *there will be a link here*
  - Program: *in development*
 #
-✏️About me: Konstantin Deev. The employee is not the most proactive, but performs the task. The character is versatile. Not married.
+📱Contact details:
+ - Phone NUMBER: +79208644026
+ - Email address: lars96hanson@gmail.com
+ - VK: https://vk.com/id438010475
+ - Telegram: @890324595 
+#
+✏️About me: 
+ - 
+Konstantin Deev. The employee is not the most proactive, but performs the task. The character is versatile. Not married.
+#
+In terms of work in and around the specialty, I consider it quite acceptable to perform any work related, both directly and indirectly, to the specialty. I do not consider my position to be anything significant, as long as the remuneration is equal to the work performed. 
+#
+If necessary, he is quite capable of teamwork. He is not demanding of the team. I think I can work with anyone. However, I would prefer to receive encouragement for the work done or something like that in the form of cash payments, but I also consider it possible to attend corporate parties and other incentive events, as an exception.
+#
+I consider additional working hours acceptable only if they are paid in a special order.
+#
+I consider it acceptable to pay for additional work related to special skills in the order of a bonus.
+#
+That's it, I hope we'll work together🤝
 ###
 -------------------------------------------------
-###👋Здравствуйте
+###
+Здравствуйте👋
+###
+#
  Я являюсь разносторонним специалистом в сфере IT.
 #
 🎓Образование:
@@ -45,6 +69,12 @@ I am a versatile specialist in the field of IT.
 🏆Достижения, работы, проекты:
  - Творческий проект: *тут будет ссылка*
  - Программа: *в разработке*
+#
+📱Контактные данные:
+ - Телефонный номер: +79208644026
+ - Электронная почта: lars96hanson@gmail.com
+ - ВК: https://vk.com/id438010475
+ - Телеграм: @890324595
 #
 ✏️О себе: 
  - 
