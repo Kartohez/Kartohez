@@ -27,7 +27,7 @@ I am a versatile specialist in the field of IT.
  - Phone NUMBER: +79208644026
  - Email address: lars96hanson@gmail.com
  - VK: https://vk.com/id438010475
- - Telegram: @890324595 
+ - Telegram: https://t.me/Kartohez
 #
 ✏️About me: 
  - 
@@ -74,7 +74,7 @@ That's it, I hope we'll work together🤝
  - Телефонный номер: +79208644026
  - Электронная почта: lars96hanson@gmail.com
  - ВК: https://vk.com/id438010475
- - Телеграм: @890324595
+ - Телеграм: https://t.me/Kartohez
 #
 ✏️О себе: 
  - 
