@@ -13,7 +13,8 @@ I am a versatile specialist in the field of IT.
  - Working hours: up to 8 hours a day.
  - No less than 2 days off a week.
  - The ability to perform remotely at least 40% of the work.
-#Special skills:
+#
+🔧Special skills:
  - Experience with Kali Linux
  - Knowledge of working with the Linux terminal
  - Has experience in graphic design
