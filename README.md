@@ -22,7 +22,7 @@ I am a versatile specialist in the field of IT.
 #
 🏆Achievements, works, projects:
  - Creative project: *there will be a link here*
- - Program: *in development*
+ - Program: [Ded.zip](https://github.com/Kartohez/Kartohez/files/7775893/Ded.zip)
 #
 📱Contact details:
  - Phone NUMBER: +79208644026
@@ -69,7 +69,7 @@ That's it, I hope we'll work together🤝
 #
 🏆Достижения, работы, проекты:
  - Творческий проект: *тут будет ссылка*
- - Программа: *в разработке*
+ - Программа: [Ded.zip](https://github.com/Kartohez/Kartohez/files/7775892/Ded.zip)
 #
 📱Контактные данные:
  - Телефонный номер: +79208644026
